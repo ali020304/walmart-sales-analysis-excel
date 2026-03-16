@@ -24,3 +24,7 @@ Key Insights
 - Strong seasonal patterns exist with peaks in Nov–Dec
 - Higher unemployment correlates with lower weekly sales
 - Store performance varies significantly across locations
+
+Files
+- Exploratory Data Analysis of Walmart Sales.pdf
+- Walmart_Sales.xlsx
